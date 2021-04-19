@@ -1,0 +1,5 @@
+C:\Users\tickantel\Desktop\PrimerEjemplo\Segundo Obligatorio\Segundo Obligatorio\obj\x86\Debug\Segundo Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\PrimerEjemplo\Segundo Obligatorio\Segundo Obligatorio\bin\Debug\Segundo Obligatorio.exe
+C:\Users\tickantel\Desktop\PrimerEjemplo\Segundo Obligatorio\Segundo Obligatorio\bin\Debug\Segundo Obligatorio.pdb
+C:\Users\tickantel\Desktop\PrimerEjemplo\Segundo Obligatorio\Segundo Obligatorio\obj\x86\Debug\Segundo Obligatorio.exe
+C:\Users\tickantel\Desktop\PrimerEjemplo\Segundo Obligatorio\Segundo Obligatorio\obj\x86\Debug\Segundo Obligatorio.pdb
